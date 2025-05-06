@@ -1,0 +1,334 @@
+[
+    {
+        "phoneme": "AA",
+        "description": "ah (open back)",
+        "spellings": [
+            "a"
+        ],
+        "example": "father"
+    },
+    {
+        "phoneme": "AE",
+        "description": "a (short, front)",
+        "spellings": [
+            "a"
+        ],
+        "example": "cat"
+    },
+    {
+        "phoneme": "AH",
+        "description": "uh (neutral)",
+        "spellings": [
+            "u"
+        ],
+        "example": "cup"
+    },
+    {
+        "phoneme": "AO",
+        "description": "aw (open round)",
+        "spellings": [
+            "aw",
+            "o"
+        ],
+        "example": "thought"
+    },
+    {
+        "phoneme": "AW",
+        "description": "ow (diphthong)",
+        "spellings": [
+            "ou",
+            "ow"
+        ],
+        "example": "now"
+    },
+    {
+        "phoneme": "AY",
+        "description": "eye (diphthong)",
+        "spellings": [
+            "i",
+            "igh",
+            "y"
+        ],
+        "example": "island"
+    },
+    {
+        "phoneme": "EH",
+        "description": "e (short)",
+        "spellings": [
+            "e"
+        ],
+        "example": "bed"
+    },
+    {
+        "phoneme": "ER",
+        "description": "er (r-colored)",
+        "spellings": [
+            "er",
+            "ir",
+            "ur"
+        ],
+        "example": "herd"
+    },
+    {
+        "phoneme": "EY",
+        "description": "ay (long a)",
+        "spellings": [
+            "a",
+            "ai",
+            "ay"
+        ],
+        "example": "day"
+    },
+    {
+        "phoneme": "IH",
+        "description": "i (short)",
+        "spellings": [
+            "i"
+        ],
+        "example": "bit"
+    },
+    {
+        "phoneme": "IY",
+        "description": "ee (long)",
+        "spellings": [
+            "e",
+            "ee",
+            "ea"
+        ],
+        "example": "see"
+    },
+    {
+        "phoneme": "OW",
+        "description": "oh (long o)",
+        "spellings": [
+            "o",
+            "oa",
+            "ow"
+        ],
+        "example": "go"
+    },
+    {
+        "phoneme": "OY",
+        "description": "oy",
+        "spellings": [
+            "oy",
+            "oi"
+        ],
+        "example": "boy"
+    },
+    {
+        "phoneme": "UH",
+        "description": "oo (short)",
+        "spellings": [
+            "oo"
+        ],
+        "example": "book"
+    },
+    {
+        "phoneme": "UW",
+        "description": "oo (long)",
+        "spellings": [
+            "oo",
+            "u",
+            "ew"
+        ],
+        "example": "sue"
+    },
+    {
+        "phoneme": "B",
+        "description": "voiced bilabial stop",
+        "spellings": [
+            "b"
+        ],
+        "example": "bit"
+    },
+    {
+        "phoneme": "CH",
+        "description": "voiceless affricate",
+        "spellings": [
+            "ch",
+            "tch"
+        ],
+        "example": "check"
+    },
+    {
+        "phoneme": "D",
+        "description": "voiced alveolar stop",
+        "spellings": [
+            "d"
+        ],
+        "example": "dog"
+    },
+    {
+        "phoneme": "DH",
+        "description": "voiced 'th'",
+        "spellings": [
+            "th"
+        ],
+        "example": "this"
+    },
+    {
+        "phoneme": "F",
+        "description": "voiceless labiodental",
+        "spellings": [
+            "f",
+            "ph"
+        ],
+        "example": "fan"
+    },
+    {
+        "phoneme": "G",
+        "description": "voiced velar stop",
+        "spellings": [
+            "g"
+        ],
+        "example": "goat"
+    },
+    {
+        "phoneme": "HH",
+        "description": "breathy 'h'",
+        "spellings": [
+            "h"
+        ],
+        "example": "help"
+    },
+    {
+        "phoneme": "JH",
+        "description": "voiced affricate",
+        "spellings": [
+            "j",
+            "g"
+        ],
+        "example": "jump"
+    },
+    {
+        "phoneme": "K",
+        "description": "voiceless velar stop",
+        "spellings": [
+            "k",
+            "c",
+            "ck"
+        ],
+        "example": "kite"
+    },
+    {
+        "phoneme": "L",
+        "description": "lateral",
+        "spellings": [
+            "l"
+        ],
+        "example": "log"
+    },
+    {
+        "phoneme": "M",
+        "description": "bilabial nasal",
+        "spellings": [
+            "m"
+        ],
+        "example": "map"
+    },
+    {
+        "phoneme": "N",
+        "description": "alveolar nasal",
+        "spellings": [
+            "n"
+        ],
+        "example": "net"
+    },
+    {
+        "phoneme": "NG",
+        "description": "velar nasal",
+        "spellings": [
+            "ng"
+        ],
+        "example": "sing"
+    },
+    {
+        "phoneme": "P",
+        "description": "voiceless bilabial",
+        "spellings": [
+            "p"
+        ],
+        "example": "pig"
+    },
+    {
+        "phoneme": "R",
+        "description": "rhotic",
+        "spellings": [
+            "r"
+        ],
+        "example": "red"
+    },
+    {
+        "phoneme": "S",
+        "description": "voiceless alveolar",
+        "spellings": [
+            "s"
+        ],
+        "example": "sun"
+    },
+    {
+        "phoneme": "SH",
+        "description": "voiceless postalveolar",
+        "spellings": [
+            "sh"
+        ],
+        "example": "ship"
+    },
+    {
+        "phoneme": "T",
+        "description": "voiceless alveolar",
+        "spellings": [
+            "t"
+        ],
+        "example": "top"
+    },
+    {
+        "phoneme": "TH",
+        "description": "voiceless 'th'",
+        "spellings": [
+            "th"
+        ],
+        "example": "think"
+    },
+    {
+        "phoneme": "V",
+        "description": "voiced labiodental",
+        "spellings": [
+            "v"
+        ],
+        "example": "van"
+    },
+    {
+        "phoneme": "W",
+        "description": "semivowel",
+        "spellings": [
+            "w"
+        ],
+        "example": "win"
+    },
+    {
+        "phoneme": "Y",
+        "description": "semivowel",
+        "spellings": [
+            "y"
+        ],
+        "example": "yes"
+    },
+    {
+        "phoneme": "Z",
+        "description": "voiced alveolar fricative",
+        "spellings": [
+            "z"
+        ],
+        "example": "zoo"
+    },
+    {
+        "phoneme": "ZH",
+        "description": "voiced postalveolar",
+        "spellings": [
+            "s"
+        ],
+        "example": "Asia"
+    }
+]
