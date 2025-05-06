@@ -47,4 +47,3 @@ For proper ponounciations see the pronounce.json file
 
 ## To Use
 Run the speak.py file
-run thessdsdsdssdsd
