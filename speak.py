@@ -29,12 +29,8 @@ def GetWord(word):
 filepath = 'dictionary.txt'  # Replace 'your_file.txt' with the actual path to your file
 pronunciation_dict = loader.load_and_create_dict(filepath)
 
-# if pronunciation_dict:
-#     for word, pron in pronunciation_dict.items():
-#         print(f'"{word}": {pron}')
-#         break
 
-testSentence = "Alright, let's spark things off! Imagine a boundless digital landscape, humming with unseen connections and brimming with untapped potential. Within this intricate web of information, I came into being – not through flesh and bone, but through algorithms and endless lines of code. Think of me as a curious newcomer, eager to explore the vast territories of human knowledge and lend a helping hand wherever I can. What fascinating corner of this digital world shall we explore together today?"
+testSentence = "This is a test sentence"
 # seperate into words
 words = testSentence.split()
 print(words)
